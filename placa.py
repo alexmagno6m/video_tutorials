@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import time
 
-n = 350
+n = 300
 t= np.zeros((n,n))
 t[0, 0:n] = 100
 #t[1:n, n-1] =50
